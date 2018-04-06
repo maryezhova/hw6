@@ -2,6 +2,7 @@
 ## Часть 1 – Google Ngram Viewer
 ### Задание 1 
 ![](https://github.com/maryezhova/hw6/blob/master/screenshot1.png)
+
 С помощью Google Ngrams мне удалось найти 10 самых частотных продолжений фразы "due to the".
 ### Задание 2
 ![](https://github.com/maryezhova/hw6/blob/master/screenshot2.png)
