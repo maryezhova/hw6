@@ -2,8 +2,10 @@
 ## Часть 1 – Google Ngram Viewer
 ### Задание 1 
 ![](https://github.com/maryezhova/hw6/blob/master/screenshot1.png)
+С помощью Google Ngrams мне удалось найти 10 самых частотных продолжений фразы "due to the".
 ### Задание 2
 ![](https://github.com/maryezhova/hw6/blob/master/screenshot2.png)
+Для анализа я выбрала английское слово "benefit", которое может быть как именем существительным с переводом "польза", так и глаголом "извлекать пользу". По графику очевидно, что "benefit" в значении существительного используется гораздо чаще. 
 ### Задание 3
 ![](https://github.com/maryezhova/hw6/blob/master/screenshot3.png)
 
